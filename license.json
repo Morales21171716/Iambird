@@ -1,0 +1,17 @@
+[
+  {
+    "device_id": "8cf6a92b102f45a1",
+    "expiry_date": "2026-12-31",
+    "status": "active"
+  },
+  {
+    "device_id": "a1b2c3d4e5f6g7h8",
+    "expiry_date": "2026-06-15",
+    "status": "active"
+  },
+  {
+    "device_id": "9988776655443322",
+    "expiry_date": "2026-01-01",
+    "status": "expired"
+  }
+]
