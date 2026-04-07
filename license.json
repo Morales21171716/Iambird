@@ -18,5 +18,10 @@
     "device_id": "fc4f9502b8113dcf",
     "expiry_date": "2099-05-02",
     "status": "active"
+  },
+  {
+    "device_id": "a586698429a0df65",
+    "expiry_date": "2059-03-04",
+    "status": "active"
   }
 ]
