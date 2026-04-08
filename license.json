@@ -23,5 +23,10 @@
     "device_id": "a586698429a0df65",
     "expiry_date": "2059-03-04",
     "status": "active"
+  },
+  {
+    "device_id": "a30455af2e9bae16",
+    "expiry_date": "2026-05-05",
+    "status": "active"
   }
 ]
